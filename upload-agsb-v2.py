@@ -31,7 +31,7 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "chakan"         # 用户名
+USER_NAME = "microsoft"         # 用户名
 UUID = "f5f9af06-b668-4f93-a2dd-ddba0f444499"                     # UUID，留空则自动生成
 PORT = 55520                   # Vmess端口，留空或0则自动生成
 DOMAIN = "streamlit.c138.eu.org"                   # 域名，留空则自动获取
