@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "chakan"         # 用户名
 UUID = "f5f9af06-b668-4f93-a2dd-ddba0f444499"                     # UUID，留空则自动生成
 PORT = 55520                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = "streamlit.c138.eu.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZjhiZDM2MjQ2NDJkNDE1YmZlNmZhNmM1ZjBlOWM1NTIiLCJ0IjoiZGFkOWI0MjUtN2E1Ni00ZGM3LWJlMjQtZGFlZmQwMjZiMzVlIiwicyI6IlpUY3dOVEJpTWpNdFpqQTVOUzAwT1RreUxXRTVaRGd0WXpVME4yRXdNV05pWkdWaiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
